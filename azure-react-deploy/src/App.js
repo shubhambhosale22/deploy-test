@@ -21,6 +21,7 @@ function App() {
 
       <footer className="footer">
         <p>© 2026 My Azure Learning Project</p>
+        <p>Branch feature/SB-01</p>
       </footer>
 
     </div>
